@@ -92,11 +92,10 @@ gap: 5px;
     border: none;
     margin-left: -10px;
     text-align: center;
+    color: black;
+    text-decoration: none;
 }
 
-.resume-btn a{
-     color: black;
-}
 
 .resume-btn:hover{
    color: #D3E97A; 
@@ -401,14 +400,13 @@ margin-left: 0;
     font-weight: bold;
     padding: 6px 8px;
     border-radius: 30px;
-    background-color: saddlebrown;
+    background-color: ;
     border: none;
     text-align: center;
+    color: black;
 }
 
-.resume-btn a{
-     color: black;
-}
+
 
 .resume-btn:hover{
    color:  #c5c8b5; 
@@ -439,6 +437,7 @@ margin-left: 0;
     justify-content: center;
     align-items: center;
     margin-right: 5px;
+    text-decoration: none;
 }
 
 
@@ -447,6 +446,7 @@ margin-left: 0;
 width:  100%;
 height: auto;
 margin: auto;
+
     }
 
     .about-img img{

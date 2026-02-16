@@ -193,6 +193,7 @@ gap: 20px;
     width: 100%;
     max-width: 550px;
     height: auto;
+    background-color: wheat;
 }
 
 
@@ -239,6 +240,7 @@ display: grid;
         width: 100%;
     max-width: 550px;
 height: auto;
+background-color: wheat;
 }
 
 
@@ -292,6 +294,7 @@ gap: 20px;
     width: 100%;
     max-width: 550px;
 height: auto;
+background-color: wheat;
 }
 
 .project-3-image img{
