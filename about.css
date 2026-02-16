@@ -92,7 +92,10 @@ gap: 5px;
     border: none;
     margin-left: -10px;
     text-align: center;
-    
+}
+
+.resume-btn a{
+     color: black;
 }
 
 .resume-btn:hover{
@@ -617,11 +620,12 @@ margin-left: 10px;
 
 .submit-button{
     padding: 8px 20px;
-    background-color: #D3E97A;
+    background-color: saddlebrown;
     border: none;
     border-radius: 20px;
     font-size: 12px;
     margin-bottom: 50px;
+
 }
 
 .submit-button:hover{
