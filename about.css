@@ -406,6 +406,10 @@ margin-left: 0;
     text-align: center;
 }
 
+.resume-btn a{
+     color: black;
+}
+
 .resume-btn:hover{
    color:  #c5c8b5; 
 }
