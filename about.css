@@ -357,7 +357,6 @@ display: grid;
 grid-template-columns: 1fr;
 margin-bottom: 70px;
 align-items: start;
-
 }
 
 
@@ -400,7 +399,7 @@ margin-left: 0;
     font-weight: bold;
     padding: 6px 8px;
     border-radius: 30px;
-    background-color: ;
+    background-color: sandybrown;
     border: none;
     text-align: center;
     color: black;
@@ -593,14 +592,14 @@ margin-left: 10px;
 }
 
 .nme{
-    padding:4px 70px;
+    padding:10px 100px;
     margin-bottom: 10px;
     background-color: rgb(27, 26, 26);
     border: none;
 }
 
 .ef{
-      padding:4px 70px;
+      padding:10px 100px;
     margin-bottom: 10px;
       background-color: rgb(27, 26, 26);
     border: none;
@@ -608,7 +607,7 @@ margin-left: 10px;
 
 
 .sub{
-      padding:4px 70px;
+      padding:10px 100px;
     margin-bottom: 10px;
  background-color: rgb(27, 26, 26);
     border: none;
@@ -616,7 +615,7 @@ margin-left: 10px;
 
 
 .mes{
-      padding:40px 70px;
+      padding:50px 100px;
     margin-bottom: 10px;
       background-color: rgb(27, 26, 26);
     border: none;
